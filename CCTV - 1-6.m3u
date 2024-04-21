@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 ,CCTV-1综合
+https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
+#EXTINF:-1 ,CCTV-2财经
+http://36.46.99.145:8011/rtp/239.112.205.78:5140
+#EXTINF:-1 ,CCTV-3综艺
+http://58.35.70.169:10055/live/cctv03/hls.m3u8
+#EXTINF:-1 ,CCTV-4中文国际
+http://58.35.70.169:10055/live/cctv04/hls.m3u8
+#EXTINF:-1 ,CCTV-5体育
+https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
+#EXTINF:-1 ,CCTV-6电影
+https://node1.olelive.com:6443/live/CCTV6HD/hls.m3u8
