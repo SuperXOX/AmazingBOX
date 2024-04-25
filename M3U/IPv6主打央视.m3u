@@ -383,29 +383,29 @@ https://i.mjh.nz/SamsungTVPlus/GBBD1100012JB.m3u8
 http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8541/.m3u8
 #EXTINF:-1 tvg-id="BeautifulLifeTV.tw" group-title="台湾",Beautiful Life TV
 https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
-#EXTINF:-1 tvg-id="CTiVariety.tw" group-title="台湾",CTi Variety (中天綜合台) (720p)
+#EXTINF:-1 tvg-id="CTiVariety.tw" group-title="台湾", 中天綜合台 (720p)
 http://23.237.10.66:16372
-#EXTINF:-1 tvg-id="CTSNews.tw" group-title="台湾",CTS News (華視新聞資訊) [Geo-blocked]
+#EXTINF:-1 tvg-id="CTSNews.tw" group-title="台湾",華視新聞資訊
 http://seb.sason.top/sc/hsxw_fhd.m3u8
-#EXTINF:-1 tvg-id="DaAi1.tw" group-title="台湾",DaAi1 (大愛1) (720p)
+#EXTINF:-1 tvg-id="DaAi1.tw" group-title="台湾",大愛1 (720p)
 https://pulltv1.wanfudaluye.com/live/tv1.m3u8
-#EXTINF:-1 tvg-id="DaAi2.tw" group-title="台湾",DaAi2 (大愛2) (720p)
+#EXTINF:-1 tvg-id="DaAi2.tw" group-title="台湾",大愛2 (720p)
 https://pulltv2.wanfudaluye.com/live/tv2.m3u8
-#EXTINF:-1 tvg-id="DaliTV.tw" group-title="台湾",Dali TV (大立電視台) (720p)
+#EXTINF:-1 tvg-id="DaliTV.tw" group-title="台湾",大立電視台 (720p)
 http://www.dalitv.com.tw:4568/live/dali/index.m3u8
-#EXTINF:-1 tvg-id="EBCFinancialNews.tw" group-title="台湾",EBC Financial News (東森財經新聞台) (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="EBCFinancialNews.tw" group-title="台湾",東森財經新聞台 (1080p) [Not 24/7]
 http://seb.sason.top/sc/dscjxw_fhd.m3u8
-#EXTINF:-1 tvg-id="EBCForeignMovie.tw" group-title="台湾",EBC Foreign Movie (東森洋片) (1080p)
+#EXTINF:-1 tvg-id="EBCForeignMovie.tw" group-title="台湾",東森洋片 (1080p)
 https://ctrl.laotv.la/live/DongsenForeignMovie/index.m3u8
-#EXTINF:-1 tvg-id="EBCMovie.tw" group-title="台湾",EBC Movie (東森電影) (1080p)
+#EXTINF:-1 tvg-id="EBCMovie.tw" group-title="台湾",東森電影 (1080p)
 https://ctrl.laotv.la/live/DongsenMovie/index.m3u8
-#EXTINF:-1 tvg-id="EBCNews.tw" group-title="台湾",EBC News (東森新聞台) (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="EBCNews.tw" group-title="台湾",東森新聞台 (1080p) [Not 24/7]
 http://seb.sason.top/sc/dsxw_fhd.m3u8
-#EXTINF:-1 tvg-id="FTV.tw" group-title="台湾",FTV (民視) (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="FTV.tw" group-title="台湾",民視 (720p) [Not 24/7]
 http://seb.sason.top/ptv/ftv.php?id=ms
-#EXTINF:-1 tvg-id="FTVOne.tw" group-title="台湾",FTV One (民視第一台) (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="FTVOne.tw" group-title="台湾",民視第一台 (720p) [Not 24/7]
 http://seb.sason.top/ptv/ftv.php?id=dy
-#EXTINF:-1 tvg-id="FTVTaiwan.tw" group-title="台湾",FTV Taiwan (民視台灣台) (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="FTVTaiwan.tw" group-title="台湾",民視台灣台 (720p) [Not 24/7]
 http://seb.sason.top/ptv/ftv.php?id=tw
 #EXTINF:-1 tvg-id="GlobalNews.tw" group-title="台湾",Global News (1080p)
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
@@ -469,9 +469,9 @@ https://live.streamingfast.net/osmflivech49.m3u8
 https://live.streamingfast.net/osmflivech50.m3u8
 #EXTINF:-1 tvg-id="IndigenousTV.tw" group-title="台湾",Indigenous TV (720p)
 http://streamipcf.akamaized.net/live/_definst_/smil:liveabr.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="SETNews.tw" group-title="台湾",SET News (三立新聞) (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="SETNews.tw" group-title="台湾",三立新聞 (1080p) [Geo-blocked]
 http://seb.sason.top/sc/sllive_fhd.m3u8
-#EXTINF:-1 tvg-id="TaiwanIndigenousTV.tw" group-title="台湾",Taiwan Indigenous TV (原住民電視) (720p)
+#EXTINF:-1 tvg-id="TaiwanIndigenousTV.tw" group-title="台湾",原住民電視 (720p)
 http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
 #EXTINF:-1 tvg-id="TaiwanPlusTV.tw" group-title="台湾",Taiwan Plus TV (1080p)
 https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
@@ -479,7 +479,7 @@ https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8
 #EXTINF:-1 tvg-id="TVBSAsia.tw" group-title="台湾",TVBS Asia (1080p)
 http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
-#EXTINF:-1 tvg-id="TVBSNews.tw" group-title="台湾",TVBS News (TVBS新聞台) [Geo-blocked]
+#EXTINF:-1 tvg-id="TVBSNews.tw" group-title="台湾",TVBS新聞台 [Geo-blocked]
 http://seb.sason.top/sc/tvbsxw_fhd.m3u8
 #EXTINF:-1 tvg-id="CTiNews.tw" group-title="台湾",中天新聞台 (1080p)
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
