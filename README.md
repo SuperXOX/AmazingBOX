@@ -7,11 +7,11 @@
 
 ## 目录
 
-- [URL](#1、稳定地址)
-- [各平台软件壳](#2、各平台软件壳)
-- [自行搜索数据源](#3、自行搜索数据源)
+- [URL](#稳定地址)
+- [各平台软件壳](#各平台软件壳)
+- [自行搜索数据源](#自行搜索数据源)
   
-## 1、稳定地址
+## 稳定地址
 
 全球最大的IPTV开源项目地址（稳定更新）:
 
@@ -21,7 +21,7 @@
 
 - 自己首次开发的m3u[CCTV - 1-6.m3u](https://raw.githubusercontent.com/SuperXOX/BOX/master/M3U/CCTV%20-%201-6.m3u)
 
-## 2、各平台软件壳
+## 各平台软件壳
 
 支持IPTV流的应用程序。
 
@@ -65,4 +65,4 @@
 
 - [Plex](https://www.plex.tv/apps-devices/#modal-devices-playstation-4) 客户端服务器媒体播放器。为了通过Plex App观看IPTV，可以使用 [Cigaras / IPTV.bundle](https://github.com/Cigaras/IPTV.bundle) 插件。
 
-## 3、自行搜索数据源
+## 自行搜索数据源
