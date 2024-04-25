@@ -20,6 +20,7 @@
 自用自己更新的IPTV源:
 
 - 自己首次开发的m3u[CCTV - 1-6.m3u](https://raw.githubusercontent.com/SuperXOX/BOX/master/M3U/CCTV%20-%201-6.m3u)
+- 稳定含IPv6链的源主打央视TV[IPv6主打央视.m3u](https://raw.githubusercontent.com/SuperXOX/BOX/master/M3U/%E8%87%AA%E7%94%A8%E5%85%A8IPTV.m3u)
 
 ## 各平台软件壳
 
