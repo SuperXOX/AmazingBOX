@@ -67,3 +67,5 @@
 - [Plex](https://www.plex.tv/apps-devices/#modal-devices-playstation-4) 客户端服务器媒体播放器。为了通过Plex App观看IPTV，可以使用 [Cigaras / IPTV.bundle](https://github.com/Cigaras/IPTV.bundle) 插件。
 
 ## 自行搜索数据源
+
+- [好用的源搜索引擎](https://www.foodieguide.com/iptvsearch/)
