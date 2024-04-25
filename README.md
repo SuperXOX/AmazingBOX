@@ -30,6 +30,10 @@
 
 支持IPTV流的应用程序。
 
+<details>
+<summary>细分平台</summary>
+<p>
+
  ### Windows
 
  - [VLC for Windows](https://www.videolan.org/vlc/download-windows.html) 免费开放源代码的便携式跨平台媒体播放器。
@@ -69,6 +73,9 @@
  ### PlayStation 4 / Xbox One
 
  - [Plex](https://www.plex.tv/apps-devices/#modal-devices-playstation-4) 客户端服务器媒体播放器。为了通过Plex App观看IPTV，可以使用 [Cigaras / IPTV.bundle](https://github.com/Cigaras/IPTV.bundle) 插件。
+
+</p>
+</details>
 
 ## 自行搜索数据源🪜
 
