@@ -13,10 +13,10 @@
   
 ## 稳定地址
 
-全球最大的IPTV开源项目地址（稳定更新）：
+全球最大的IPTV开源项目地址（稳定更新）:
 
 - [收集来自世界各地8000多个公开可用的IPTV](https://github.com/iptv-org/iptv)
 
-自用自己更新的IPTV源：
+自用自己更新的IPTV源:
 
 - 自己首次开发的m3u[CCTV - 1-6.m3u](https://raw.githubusercontent.com/SuperXOX/BOX/master/M3U/CCTV%20-%201-6.m3u)
