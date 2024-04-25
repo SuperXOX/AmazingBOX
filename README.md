@@ -10,6 +10,7 @@
 - [URL](#稳定地址)
 - [各平台软件壳](#各平台软件壳)
 - [自行搜索数据源](#自行搜索数据源)
+- [EPG电子节目单](#EPG电子节目单)
   
 ## 稳定地址
 
@@ -69,3 +70,7 @@
 ## 自行搜索数据源
 
 - [电视直播源搜索引擎](https://www.foodieguide.com/iptvsearch/) - 国内外电视频道直播源搜索，m3u8、flv、rtsp、rtmp、txt直播源链接地址每日更新
+
+## EPG电子节目单
+
+- [一个全球 EPG 电视节目表](https://epg.pw/test_channel_page.html) - 目前较好用的电视节目表
