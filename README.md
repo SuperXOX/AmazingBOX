@@ -92,3 +92,17 @@
 ## 📚国内外开源项目参考
 
 - [一个可直连访问的电视/广播图标库与相关工具项目](https://live.fanmingming.com/) - ✯ 🔕 永久免费 直连访问 完整开源 不断完善的台标 支持IPv4/IPv6双栈访问 🔕
+
+# 具体工作流
+
+<details>
+<summary>细分流程</summary>
+<p>
+
+## 1、编辑M3U或M3U8频道源
+
+- [搜索频道源](https://www.foodieguide.com/iptvsearch/) - 从此处搜索相应可用频道源
+  
+</p>
+</details>
+
