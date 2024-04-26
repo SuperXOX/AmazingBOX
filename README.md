@@ -99,7 +99,11 @@
 <summary>细分流程</summary>
 <p>
 
-## 1、编辑M3U或M3U8频道源
+## 1、新建频道列表M3U或M3U8
+
+- [新增此项](https://raw.githubusercontent.com/SuperXOX/AmazingBOX/master/M3U/CCTV.m3u) - 可本地文件也可项目文件
+
+## 2、搜索M3U或M3U8频道源
 
 - [搜索频道源](https://www.foodieguide.com/iptvsearch/) - 从此处搜索相应可用频道源
   
