@@ -445,5 +445,7 @@ https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live5/hls-cl-tv/ind
 https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live2/hls-cl-tv/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="台湾",立法院IVOD直播院會 (450p)
 https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live1/hls-cl-tv/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="体育",纬来体育
+#EXTINF:-1 tvg-id="" group-title="体育",纬来体育 240426
 https://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
+#EXTINF:-1 tvg-id="" group-title="体育",劲爆体育 240426
+http://58.42.59.104/hljbuv52.live.bestvcdn.com.cn/liveplay-kk.rtxapp.com/live/program/live/jbtyhd8m/8000000/mnf.m3u8
