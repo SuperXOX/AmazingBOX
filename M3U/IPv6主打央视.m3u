@@ -379,22 +379,22 @@ https://i.mjh.nz/SamsungTVPlus/USBD17000117B.m3u8
 https://i.mjh.nz/SamsungTVPlus/GBBC4300005AL.m3u8
 #EXTINF:-1 group-title="国际",NextUp Live Comedy
 https://i.mjh.nz/SamsungTVPlus/GBBD1100012JB.m3u8
-#EXTINF:-1 group-title="台湾",中天新闻
-http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8541/.m3u8
-#EXTINF:-1 tvg-id="CTiNews.tw" group-title="台湾",中天新聞台 (1080p)
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
-#EXTINF:-1 tvg-id="CTiVariety.tw" group-title="台湾", 中天綜合台 (720p)
+#EXTINF:-1 tvg-id="CTiNews.tw" group-title="台湾",中天新聞台 (1080p)0426
+http://66.165.240.154:8080/live/ztylt01/hls.m3u8
+#EXTINF:-1 tvg-id="CTiVariety.tw" group-title="台湾", 中天綜合台 (720p)0426x
 http://23.237.10.66:16372
-#EXTINF:-1 tvg-id="CTSNews.tw" group-title="台湾",華視新聞資訊
+#EXTINF:-1 tvg-id="CTiVariety.tw" group-title="台湾", 中天綜合台 (1080p)0426x
+http://50.7.238.114:8278/ctizhonghe/playlist.m3u8?tid=ME3E9861589598615895&ct=19226&tsum=7e6a4896cab50c2c48d7a889c1076ffc
+#EXTINF:-1 tvg-id="CTSNews.tw" group-title="台湾",華視新聞資訊 0426x
 http://seb.sason.top/sc/hsxw_fhd.m3u8
-#EXTINF:-1 tvg-id="EBCFinancialNews.tw" group-title="台湾",東森財經新聞台 (1080p) [Not 24/7]
-http://seb.sason.top/sc/dscjxw_fhd.m3u8
-#EXTINF:-1 tvg-id="EBCForeignMovie.tw" group-title="台湾",東森洋片 (1080p)
-https://ctrl.laotv.la/live/DongsenForeignMovie/index.m3u8
-#EXTINF:-1 tvg-id="EBCMovie.tw" group-title="台湾",東森電影 (1080p)
+#EXTINF:-1 tvg-id="EBCFinancialNews.tw" group-title="台湾",東森財經新聞台 (1080p)240426
 https://ctrl.laotv.la/live/DongsenMovie/index.m3u8
-#EXTINF:-1 tvg-id="EBCNews.tw" group-title="台湾",東森新聞台 (1080p) [Not 24/7]
-http://seb.sason.top/sc/dsxw_fhd.m3u8
+#EXTINF:-1 tvg-id="EBCForeignMovie.tw" group-title="台湾",東森洋片 (1080p)240426
+https://ctrl.laotv.la/live/DongsenForeignMovie/index.m3u8
+#EXTINF:-1 tvg-id="EBCMovie.tw" group-title="台湾",東森電影 (1080p)240426
+https://ctrl.laotv.la/live/DongsenMovie/index.m3u8
+#EXTINF:-1 tvg-id="EBCNews.tw" group-title="台湾",東森新聞台 (1080p)240426
+https://edge1.laotv.la/live/DongsenMovie/index.m3u8
 #EXTINF:-1 tvg-id="DaliTV.tw" group-title="台湾",大立電視台 (720p)
 http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 #EXTINF:-1 tvg-id="FTV.tw" group-title="台湾",民視 (720p) [Not 24/7]
