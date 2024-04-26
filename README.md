@@ -106,7 +106,15 @@
 ## 2、搜索M3U或M3U8频道源
 
 - [搜索频道源](https://www.foodieguide.com/iptvsearch/) - 从此处搜索相应可用频道源
-  
+
+## 3、补充台标徽标
+
+- [国内台标徽标站](https://live.fanmingming.com/e.xml) - 此站点仅为国内台标徽标站点，使用方法详见：📚[国内外开源项目参考](#国内外开源项目参考)第一项
+
+## 4、补充EPG电子节目单
+
+- [一个全球 EPG 电视节目表](https://epg.pw/test_channel_page.html) - 目前较好用的电视节目表
+ 
 </p>
 </details>
 
