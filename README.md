@@ -114,6 +114,7 @@
 ## 4、补充EPG电子节目单
 
 - [一个全球 EPG 电视节目表](https://epg.pw/test_channel_page.html) - 目前较好用的电视节目表
+- [通用节目单](https://epg.pw/xmltv/epg_lite.xml) - 直接添加
  
 </p>
 </details>
