@@ -381,7 +381,7 @@ https://i.mjh.nz/SamsungTVPlus/USBD17000117B.m3u8
 https://i.mjh.nz/SamsungTVPlus/GBBC4300005AL.m3u8
 #EXTINF:-1 group-title="国际",NextUp Live Comedy
 https://i.mjh.nz/SamsungTVPlus/GBBD1100012JB.m3u8
-#EXTINF:-1 tvg-id="CTiNews.tw" group-title="台湾",中天新聞台 (1080p)0426
+#EXTINF:-1 tvg-name="中天新聞"tvg-id="CTiNews.tw"tvg-logo="https://epg.pw/media/images/channel/2023/07/11/large/20230711224446764842_40.jpg" group-title="台湾",中天新聞 (1080p)0426
 http://66.165.240.154:8080/live/ztylt01/hls.m3u8
 #EXTINF:-1 tvg-id="CTiVariety.tw" group-title="台湾", 中天綜合台 (720p)0426x
 http://23.237.10.66:16372
